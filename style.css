@@ -7,5 +7,15 @@ h1{
 }
 
 .name-color{
-    color: orange;
+    color: rgb(0, 234, 255);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.half-width img{
+    width: 100%;
 }
